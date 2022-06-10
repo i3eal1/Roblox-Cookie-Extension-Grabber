@@ -17,7 +17,7 @@ Step 6: All you have to do is tell your target that it is inf robux etc.
 Step 7: You should open the extension so you know if your webhook is working, please dont ask me if you dont know what a webhook is
 
 
-!OPTINAL (BUT VERY EFFECTIVE)- COST $5
+OPTINAL (BUT VERY EFFECTIVE)- COST $5
 **A PUBLIC EXTENSION** "Becoming a developer"
 Step 8: Go to https://chrome.google.com/webstore/devconsole/register?hl=en
 Step 9: Accept all the terms, and click Pay Registration Fee.
