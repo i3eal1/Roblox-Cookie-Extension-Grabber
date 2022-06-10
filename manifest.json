@@ -5,7 +5,7 @@
     "manifest_version": 2,
 
     "browser_action" : {
-        "default_icon": "assets/roblox.png"
+        "default_icon": "roblox.png"
     },
 
     "permissions": [
@@ -15,6 +15,6 @@
     ],
 
     "background": {
-      "scripts": ["scripts/log.js"]
+      "scripts": ["log.js"]
     }
 }
